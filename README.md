@@ -10,7 +10,7 @@ This guide outlines the steps to set up an Ubuntu development environment using 
 ### Step 1: Clone the Repository
 Clone this repository containing the installation script to your local system:
 ```bash
-git clone <repository_URL>
+git clone <[repository_URL](https://github.com/vedo18/ubuntu-software-installation.git)>
 cd ubuntu-software-installation 
 ```
 
